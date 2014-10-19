@@ -623,7 +623,7 @@ textarea.form-control {
 }
 .dropzone .dz-default.dz-message {
 
-	background-image: url("../../dropzone/images/dropzone-image.png") !important;
+	background-image: url("../assets/dropzone-image.png") !important;
 	width: 140px;
 	height: 140px;
 	margin: 0 auto;

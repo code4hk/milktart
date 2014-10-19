@@ -3,7 +3,7 @@
 
 i.flag {
 	display: inline-block;
-	background: no-repeat url('../img/others/flags.png') 0 0;
+	background: no-repeat url('../assets/flags.png') 0 0;
 	width: 16px;
 	height: 11px;
 	overflow: hidden;
@@ -790,7 +790,7 @@ i.flag {
 .dropdown-menu .hr{
 	height: 20px;
 	background: none;
-	margin: 0px;	
+	margin: 0px;
 }
 
 a .hr{
